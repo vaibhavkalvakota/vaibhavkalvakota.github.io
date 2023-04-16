@@ -21,9 +21,9 @@ timezone: America/Toronto
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tempus Spatium                                                        # the main title
+title: Vaibhav Kalvakota                                                        # the main title
 
-tagline: Physics, mathematics and philosophy. By Siddhartha Bhattacharjee.   # it will display as the sub-title
+tagline: Physics and maths.   # it will display as the sub-title
 
 description: >-                                                              # used by seo meta and the atom feed
   Physics, mathematics and philosophy. By Siddhartha Bhattacharjee.
@@ -72,8 +72,6 @@ theme_mode:   # [light|dark]
 # e.g. 'https://cdn.com'
 img_cdn:
 
-# the avatar on sidebar, support local or CORS resources
-avatar: 'https://raw.githubusercontent.com/Booodaness/tempus-spatium/master/assets/img/site/avatar.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
